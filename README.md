@@ -33,11 +33,11 @@ This project is a console-based e-commerce system built with Java, showcasing **
 
 ## Screenshots
 
-![Java e-commerce system preview 1 of 3](./assets/Screenshot 2025-07-04 182402.png)
+![Java e-commerce system preview 1 of 3](./assets/java-ecomm1.png)
 
-![Java e-commerce system preview 2 of 3](./assets/Screenshot 2025-07-04 182503.png)
+![Java e-commerce system preview 2 of 3](./assets/java-ecomm2.png)
 
-![Java e-commerce system preview 3 of 3](./assets/Screenshot 2025-07-04 182536.png)
+![Java e-commerce system preview 3 of 3](./assets/java-ecomm3.png)
 
 
 
