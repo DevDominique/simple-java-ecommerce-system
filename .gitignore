@@ -1,0 +1,17 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Compiled class files
+bin/
+*.class
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
